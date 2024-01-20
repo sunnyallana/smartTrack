@@ -1,6 +1,9 @@
-Sure! Here's a sample `README.md` file for the project:
-
 # RFID Attendance System using ESP32
+
+**Author: Sunny Allana**  
+**GitHub: [Sunny Allana](https://github.com/sunnyallana/)** <br/>
+**LinkedIn: [Sunny Allana](https://www.linkedin.com/in/sunnyallana/)** <br/>
+**Instagram: [Sunny Allana](https://www.instagram.com/imsunnyallana/)**
 
 This project implements an RFID attendance system using an ESP32 microcontroller, an RFID reader (MFRC522), and an OLED display. The system reads RFID card IDs and sends them to a server using HTTP requests for attendance tracking and logging.
 
