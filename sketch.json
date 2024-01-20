@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "esp32:esp32:mhetesp32devkit:DebugLevel=none,EraseFlash=none,FlashFreq=80,PartitionScheme=default,UploadSpeed=115200",
+    "name": "MH ET LIVE ESP32DevKIT",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}
