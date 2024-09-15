@@ -5,6 +5,8 @@
 **LinkedIn: [Sunny Allana](https://www.linkedin.com/in/sunnyallana/)** <br/>
 **Instagram: [Sunny Allana](https://www.instagram.com/imsunnyallana/)**
 
+![IMG_20230506_014157_397](https://github.com/user-attachments/assets/5ba428c0-32d2-4a40-8ff7-e6fb1cb87621)
+
 This project implements an RFID attendance system using an ESP32 microcontroller, an RFID reader (MFRC522), and an OLED display. The system reads RFID card IDs and sends them to a server using HTTP requests for attendance tracking and logging.
 
 ## Table of Contents
